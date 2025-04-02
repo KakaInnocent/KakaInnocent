@@ -13,5 +13,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KakaInnocent&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="KakaInnocent" /></p>
 
-### :fire: My Stats :
+### :fire: My Stats💯 :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KakaInnocent&theme=dark&background=000000)](https://git.io/streak-stats)
